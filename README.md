@@ -1,2 +1,2 @@
 # Git-Repo-Demo
-Git Learning LAB Demo repo
+Git Learning LAB Demo Repo
